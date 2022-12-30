@@ -9,9 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](link) 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](link) 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](link) 
 
 ## :dart: About ##
 
@@ -19,10 +16,10 @@ Tired of editing your github profile? Looking for some **cool readme** to do a `
 
 Beautify your github profile with this amazing tool, creating the readme your way in a simple and fast way! Include what you want, place it wherever you want, however you want! (<i>But of course, respecting the limits of what is possible to do in markdown</i> 😁)
 
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](link) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](link) 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](link) 
 
-<p align="center">
-  <i>Loved the tool? Please consider <a href="https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS">donating</a> 💸 to help it improve!</i>
-</p>
 
 ## :rocket: Main Technologies ##
 
