@@ -14,7 +14,7 @@ Welcome to my profile, mostly I'm doing Javascript project
 ## :rocket: Main Technologies ##
 
 <a href="https://nextjs.org">
-  <img width="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/next-logo.svg">
+  <img width="50" title="NextJs" alt="Next Logo" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
 </a> &#xa0; &#xa0;
 
 <a href="https://www.typescriptlang.org">
@@ -22,15 +22,15 @@ Welcome to my profile, mostly I'm doing Javascript project
 </a> &#xa0; &#xa0;
 
 <a href="https://styled-components.com">
-  <img width="50" title="Styled Components" alt="Styled Components Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png">
+  <img width="50" title="Styled Components" alt="Styled Components Logo" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png">
 </a> &#xa0; &#xa0;
 
 <a href="https://jestjs.io">
-  <img width="50" title="Jest" alt="Jest Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/jest-logo.svg">
+  <img width="50" title="Jest" alt="Jest Logo" src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-1-logo-png-transparent.png">
 </a> &#xa0; &#xa0;
 
 <a href="https://eslint.org">
-  <img  width="50" title="Eslint" alt="Eslint Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
+  <img  width="50" title="Eslint" alt="Eslint Logo" src="https://cdn.freebiesupply.com/logos/large/2x/vue-9-logo-png-transparent.png">
 </a> &#xa0; &#xa0;
 
 <a href="https://prettier.io">
