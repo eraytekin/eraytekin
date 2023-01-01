@@ -1,23 +1,14 @@
 
 ## ✋ Hi There ##
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Welcome to my profile, mostly I'm doing javascript project
 
 
 ## :dart: About ##
 
-Tired of editing your github profile? Looking for some **cool readme** to do a `ctrl+c ctrl+v`? Or are you tired of missing out on the **amazing features** you can add to your readme? What about configuring github actions? 😩 **Come on!**
 
-Beautify your github profile with this amazing tool, creating the readme your way in a simple and fast way! Include what you want, place it wherever you want, however you want! (<i>But of course, respecting the limits of what is possible to do in markdown</i> 😁)
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](link) 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](link) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eray-tekin/?originalSubdomain=tr) 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://mobile.twitter.com/eraytekin90) 
 
 
 ## :rocket: Main Technologies ##
