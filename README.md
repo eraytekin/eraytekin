@@ -13,28 +13,26 @@ Welcome to my profile, mostly I'm doing Javascript project
 
 ## :rocket: Main Technologies ##
 
-<a href="https://nextjs.org">
+<a href="">
   <img width="50" title="NextJs" alt="Next Logo" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
 </a> &#xa0; &#xa0;
 
-<a href="https://www.typescriptlang.org">
+<a href="">
   <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/typescript-logo.svg">
 </a> &#xa0; &#xa0;
 
-<a href="https://styled-components.com">
+<a href="">
   <img width="50" title="Styled Components" alt="Styled Components Logo" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png">
 </a> &#xa0; &#xa0;
 
-<a href="https://jestjs.io">
+<a href="">
   <img width="50" title="Jest" alt="Jest Logo" src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-1-logo-png-transparent.png">
 </a> &#xa0; &#xa0;
 
-<a href="https://eslint.org">
+<a href="">
   <img  width="50" title="Eslint" alt="Eslint Logo" src="https://cdn.freebiesupply.com/logos/large/2x/vue-9-logo-png-transparent.png">
 </a> &#xa0; &#xa0;
 
-<a href="https://prettier.io">
-  <img width="50" title="Prettier" alt="Prettier Logo" src="https://prettier.io/icon.png">
-</a>
+
 
 ###
