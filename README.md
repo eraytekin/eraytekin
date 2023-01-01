@@ -1,6 +1,6 @@
 
 ## ✋ Hi There ##
-Welcome to my profile, mostly I'm doing javascript project
+Welcome to my profile, mostly I'm doing Javascript project
 
 
 ## :dart: About ##
